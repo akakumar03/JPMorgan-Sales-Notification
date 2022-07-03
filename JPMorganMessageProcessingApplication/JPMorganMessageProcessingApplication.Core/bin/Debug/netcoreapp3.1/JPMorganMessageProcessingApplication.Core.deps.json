@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "JPMorganMessageProcessingApplication.Core/1.0.0": {
+        "dependencies": {
+          "JPMorganMessageProcessingApplication.Data": "1.0.0",
+          "Pluralize.NET.Core": "1.0.0"
+        },
+        "runtime": {
+          "JPMorganMessageProcessingApplication.Core.dll": {}
+        }
+      },
+      "Pluralize.NET.Core/1.0.0": {
+        "runtime": {
+          "lib/netstandard2.0/Pluralize.NET.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          },
+          "lib/netstandard2.0/System.ComponentModel.Composition.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.6.25714.1"
+          }
+        }
+      },
+      "JPMorganMessageProcessingApplication.Data/1.0.0": {
+        "runtime": {
+          "JPMorganMessageProcessingApplication.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JPMorganMessageProcessingApplication.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Pluralize.NET.Core/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-P2HZo1fCc6ZandAL6fIFvlzcVOX/BIym3WcdbE/9sPSZHLDDRWtmTH0bxTNJ9m5Bo7lrTbZB1VS2NqqWMF0pCg==",
+      "path": "pluralize.net.core/1.0.0",
+      "hashPath": "pluralize.net.core.1.0.0.nupkg.sha512"
+    },
+    "JPMorganMessageProcessingApplication.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

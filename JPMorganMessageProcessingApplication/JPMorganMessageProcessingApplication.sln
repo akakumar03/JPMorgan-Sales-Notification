@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32428.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JPMorganMessageProcessingApplication", "JPMorganMessageProcessingApplication\JPMorganMessageProcessingApplication.csproj", "{8A439D80-61CD-4C4F-937A-97DCB13C0669}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JPMorganMessageProcessingApplication.Data", "JPMorganMessageProcessingApplication.Data\JPMorganMessageProcessingApplication.Data.csproj", "{3EA5FA92-2378-4A99-9DEE-819E30E56597}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JPMorganMessageProcessingApplication.Core", "JPMorganMessageProcessingApplication.Core\JPMorganMessageProcessingApplication.Core.csproj", "{76DD40DF-14A3-49AC-8F6E-C13CDC126ABE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A439D80-61CD-4C4F-937A-97DCB13C0669}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A439D80-61CD-4C4F-937A-97DCB13C0669}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A439D80-61CD-4C4F-937A-97DCB13C0669}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A439D80-61CD-4C4F-937A-97DCB13C0669}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EA5FA92-2378-4A99-9DEE-819E30E56597}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EA5FA92-2378-4A99-9DEE-819E30E56597}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EA5FA92-2378-4A99-9DEE-819E30E56597}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EA5FA92-2378-4A99-9DEE-819E30E56597}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76DD40DF-14A3-49AC-8F6E-C13CDC126ABE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76DD40DF-14A3-49AC-8F6E-C13CDC126ABE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76DD40DF-14A3-49AC-8F6E-C13CDC126ABE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76DD40DF-14A3-49AC-8F6E-C13CDC126ABE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B48CB7B9-5D53-4980-B73B-290BF81B5016}
+	EndGlobalSection
+EndGlobal

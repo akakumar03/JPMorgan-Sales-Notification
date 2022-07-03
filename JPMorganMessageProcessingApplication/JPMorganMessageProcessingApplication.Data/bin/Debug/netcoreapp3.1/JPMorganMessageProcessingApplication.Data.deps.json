@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "JPMorganMessageProcessingApplication.Data/1.0.0": {
+        "runtime": {
+          "JPMorganMessageProcessingApplication.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JPMorganMessageProcessingApplication.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

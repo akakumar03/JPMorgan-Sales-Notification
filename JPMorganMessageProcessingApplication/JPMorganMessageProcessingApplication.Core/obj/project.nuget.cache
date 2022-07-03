@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8FCD5TySa2IsAEy0/8PWEmB+izVFMvujXPVAK/ULv+4vEWtaoznlng2rYGypjWbh99qyYaJ9+ptrqOTmGBSF9g==",
+  "success": true,
+  "projectFilePath": "C:\\Practise\\JPMorganMessageProcessingApplication\\JPMorganMessageProcessingApplication.Core\\JPMorganMessageProcessingApplication.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GL319\\.nuget\\packages\\pluralize.net.core\\1.0.0\\pluralize.net.core.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
